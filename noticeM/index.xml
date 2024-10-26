@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Notices on Latent Club</title>
+    <link>http://latent.club/notice/</link>
+    <description>Recent content in Notices on Latent Club</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko-kr</language>
+    <atom:link href="http://latent.club/notice/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Notice</title>
+      <link>http://latent.club/notice/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://latent.club/notice/</guid>
+      <description>
+
+&lt;h4 id=&#34;2018-05-06&#34;&gt;2018.05.06&lt;/h4&gt;
+
+&lt;p&gt;Android 앱을 업데이트 했습니다. 기존의 앱은 웹사이트와 동일한 모습이였으나, 앞으로 앱에서는 웹과 다른 UX로 업데이트될 예정입니다.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Android 앱 다운로드 &amp;gt; &lt;a href=&#34;https://play.google.com/store/apps/details&#34;&gt;구글 플레이&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;iOS 앱 &amp;gt; &lt;b&gt;Comming Soon..&lt;/b&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
