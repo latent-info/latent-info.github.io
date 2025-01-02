@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Individuals on Latent CLUB</title>
+    <link>http://latent-info.github.io/individual/</link>
+    <description>Recent content in Individuals on Latent CLUB</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko-kr</language>
+    <atom:link href="http://latent-info.github.io/individual/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Apps</title>
+      <link>http://latent-info.github.io/individual/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://latent-info.github.io/individual/</guid>
+      <description>
+
+&lt;h2 id=&#34;terms-of-privacy&#34;&gt;Terms of Privacy&lt;/h2&gt;
+
+&lt;p&gt;Brilliant Lime의 &amp;lsquo;Latent CLUB&amp;rsquo;, &amp;lsquo;라인사커&amp;rsquo;, &amp;lsquo;MLBPARKER&amp;rsquo;, &amp;lsquo;커뮤니티 옵저버&amp;rsquo;, &amp;lsquo;딩굴한글키보드 테마&amp;rsquo; 앱들은 개인정보를 저장하거나 취급하지 않습니다.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
