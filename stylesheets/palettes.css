@@ -1,0 +1,17 @@
+@supports (-webkit-appearance:none){.palette-primary-indigo{background:#3f51b5}}
+.palette-primary-indigo .footer,.palette-primary-indigo .header{background:#3f51b5}
+.palette-primary-indigo .drawer .toc a.current,.palette-primary-indigo .drawer .toc a:focus,.palette-primary-indigo .drawer .toc a:hover{color:#3f51b5}
+.palette-primary-indigo .drawer .anchor a{border-left:2px solid #3f51b5}
+.ios.standalone .palette-primary-indigo .article{background:-webkit-linear-gradient(top,#fff 50%,#3f51b5 0);background:linear-gradient(180deg,#fff 50%,#3f51b5 0)}
+.palette-primary-indigo .palette-primary-indigo .article code,.palette-primary-indigo .article h1,.palette-primary-indigo .article h2{color:dimgrey}
+.palette-primary-indigo .article .headerlink{color:rgba(0,0,0,.26)}
+.palette-primary-indigo .article table th{background:#6f7dc8}
+.palette-primary-indigo .results .meta{background:#3f51b5}
+
+
+.palette-accent-blue .article a:focus,.palette-accent-blue .article a:hover{color:#6889ff}.palette-accent-blue .repo a{background:#6889ff}
+
+@media only screen and (max-width:959px){
+    .palette-primary-indigo .project{background:#3f51b5}
+    .palette-primary-blue .project{background:#5677fc}
+}

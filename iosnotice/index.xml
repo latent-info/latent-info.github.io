@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Iosnotices on Latent CLUB</title>
+    <link>http://latent.club/iosnotice/</link>
+    <description>Recent content in Iosnotices on Latent CLUB</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko-kr</language>
+    <atom:link href="http://latent.club/iosnotice/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Notice</title>
+      <link>http://latent.club/iosnotice/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://latent.club/iosnotice/</guid>
+      <description>
+
+&lt;h2 id=&#34;2019-04-27&#34;&gt;2019.04.27&lt;/h2&gt;
+
+&lt;h4 id=&#34;근황-주제-업데이트-및-ios-앱-업데이트&#34;&gt;근황 주제 업데이트 및 iOS 앱 업데이트&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;근황: 각 커뮤니티에서 다양한 인물/단체 들의 근황으로 올라오는 게시물에 대해 모아서 보여줍니다.&lt;/li&gt;
+&lt;li&gt;iOS 앱도 디자인과 주제 추가를 변경했습니다(게시물 내용은 웹사이트를 파싱해서 보여주는 형태 유지).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;2018-10-09&#34;&gt;2018.10.09&lt;/h2&gt;
+
+&lt;h4 id=&#34;장애-공지&#34;&gt;장애 공지&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;서버 장애로 10월 2일부터 8일까지 일주일 정도 게시글이 업데이트가 안되었습니다. 현재 서버를 복구를 완료하여 문제가 없으며, 새로운 글이 분류되어 업데이트 되는 시간도 단축하였습니다. 이용에 불편드려 죄송합니다.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;2018-09-07&#34;&gt;2018.09.07&lt;/h2&gt;
+
+&lt;h4 id=&#34;ios-앱-출시&#34;&gt;iOS 앱 출시&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;iOS 앱이 출시되었습니다. 유료($0.99) 앱이지만 지난번에 올린 알림사항처럼 iOS앱은 각 게시글이 웹사이트가 아니라 앱내에서 보이도록 되어 기존 앱과는 업그레이드된 기능을 갖고 있습니다. 이 기능은 안드로이드에서는 Pro 버전으로 출시될 예정입니다.
+&lt;a href=&#34;https://itunes.apple.com/us/app/latent-club/id1431374836?l=ko&amp;amp;ls=1&amp;amp;mt=8&#34;&gt;앱스토어에서 iOS앱 다운로드&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;2018-05-12&#34;&gt;2018.05.12&lt;/h2&gt;
+
+&lt;h4 id=&#34;분류모델-업데이트&#34;&gt;분류모델 업데이트&lt;/h4&gt;
+
+&lt;p&gt;게시물 분류 모델 업데이트 했습니다. 일주일정도 분류되는 상태를 보고 완료할 생각입니다. 최근 약 일주일간의 게시글을 바탕으로 모델을 생성했는데, 북미회담, 삼성바이오로직스 이슈가 경제/주식 분야의 이슈를 덮고 있어서 주제별로 중복되는 글이 많을 수 있습니다. 향후에 이슈가 가라앉는 시기에 일부 조정할 생각입니다.&lt;/p&gt;
+
+&lt;h2 id=&#34;2018-05-12-1&#34;&gt;2018.05.12&lt;/h2&gt;
+
+&lt;h4 id=&#34;업데이트-앱-릴리즈-지연&#34;&gt;업데이트 앱 릴리즈 지연&lt;/h4&gt;
+
+&lt;p&gt;앱 리뷰가 늦어져서 아직 앱스토어에 올라오지 않았습니다 ㅡ_ ㅡ;; 앞으로 하루이틀 안으로 업데이트될 거 같습니다.
+감사합니다.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

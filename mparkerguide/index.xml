@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mparkerguides on Latent CLUB</title>
+    <link>http://latent-info.github.io/mparkerguide/</link>
+    <description>Recent content in Mparkerguides on Latent CLUB</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko-kr</language>
+    <atom:link href="http://latent-info.github.io/mparkerguide/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Apps</title>
+      <link>http://latent-info.github.io/mparkerguide/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://latent-info.github.io/mparkerguide/</guid>
+      <description>
+
+&lt;h2 id=&#34;mlbparker-사용-가이드&#34;&gt;MLBPARKER 사용 가이드&lt;/h2&gt;
+
+&lt;h2 id=&#34;1-유저-메뉴&#34;&gt;1. 유저 메뉴&lt;/h2&gt;
+
+&lt;h3 id=&#34;1-1-유저-차단&#34;&gt;1-1. 유저 차단&lt;/h3&gt;
+
+&lt;p&gt;유저 차단에는 아이디 차단과 슈퍼블로킹 2가지 방법이 있습니다. 아이디 차단은 엠팍사이트에서 제공하는 방법으로 최대 차단가능한 개수가 있습니다. 슈퍼블로킹은 MLBPARKER앱에서만 제공하는 기능으로 차단가능 제한숫자가 없으며, 차단되었다는 표시가 화면에 표시됩니다.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;게시물 작성자의 차단은 오른쪽 하단 메뉴버튼을 클릭한 후 차단 메뉴 선택&lt;/li&gt;
+&lt;li&gt;댓글의 유저차단은 댓글의 아바타를 클릭해서 나오는 메뉴 선택&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;1-2-차단리스트-관리&#34;&gt;1-2. 차단리스트 관리&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;환경설정 메뉴에서 차단리스트의 삭제가 가능함(슈퍼블로킹만 가능하며, 유저차단은 엠팍 사이트에서 관리 가능)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;1-3-유저-게시물-가입일-보기&#34;&gt;1-3. 유저 게시물, 가입일 보기&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;게시글 작성자: 오른쪽 상단의 게시글 작성자 아바타 클릭 시 표시되는 메뉴에서 선택&lt;/li&gt;
+&lt;li&gt;댓글 작성자: 댓글 작성자 아바타 클릭 시 표시되는 메뉴에서 선택&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;2-키워드-차단&#34;&gt;2. 키워드 차단&lt;/h2&gt;
+
+&lt;p&gt;엠팍사이트에서도 개인설정에서 키워드 차단이 가능하지만 현재 MLBPARKER앱에서 제공하는 키워드 차단은 앱에서 단독으로 동작하는 기능입니다. 키워드가 제목에 포함되어 있을 경우에만 해당 글이 표시되지 않으며, 키워드로 차단되는 글이 생길 경우 게시판 로딩 시에 차단된 건수와 키워드가 표시됩니다.&lt;/p&gt;
+
+&lt;p&gt;그래서 앱을 지우거나 휴대폰을 바꾸면 새로 등록이 필요합니다. 이 부분은 설정파일을 저장하여 적용하는 기능을 향후 추가하려고 합니다.&lt;/p&gt;
+
+&lt;h3 id=&#34;2-1-차단-키워드-관리&#34;&gt;2-1. 차단 키워드 관리&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;환경설정 메뉴에서 &lt;code&gt;키워드 차단 목록 관리&lt;/code&gt;에서 키워드 추가와 삭제가 가능함&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;3-말머리-관리&#34;&gt;3. 말머리 관리&lt;/h2&gt;
+
+&lt;p&gt;보기 싫은 말머리를 보지 않거나 보고자 하는 말머리만 있을 경우에는 해당 말머리 설정 기능을 통해 할 수 있습니다.&lt;/p&gt;
+
+&lt;h3 id=&#34;3-1-말머리-관리&#34;&gt;3-1. 말머리 관리&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;환경설정 메뉴에서 &lt;code&gt;말머리 목록 관리&lt;/code&gt;에서 키워드 추가와 삭제가 가능함&lt;/li&gt;
+&lt;li&gt;체크해제한 말머리는 게시판에서 표시되지 않습니다.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;4-게시글-이미지&#34;&gt;4. 게시글 이미지&lt;/h2&gt;
+
+&lt;h3 id=&#34;4-1-이미지-확대-축소&#34;&gt;4-1. 이미지 확대/축소&lt;/h3&gt;
+
+&lt;p&gt;게시글의 이미지를 확대하거나 축소하고 싶을 때에는 게시글 이미지를 누르면 표시되는 화면에서 가능합니다.&lt;/p&gt;
+
+&lt;h3 id=&#34;4-2-이미지-저장&#34;&gt;4-2. 이미지 저장&lt;/h3&gt;
+
+&lt;p&gt;게시글 이미지를 클릭하여 오른쪽 상단의 저장메뉴를 클릭&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

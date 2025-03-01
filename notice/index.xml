@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Notices on Latent CLUB</title>
+    <link>http://latent-info.github.io/notice/</link>
+    <description>Recent content in Notices on Latent CLUB</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko-kr</language>
+    <atom:link href="http://latent-info.github.io/notice/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Notice</title>
+      <link>http://latent-info.github.io/notice/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://latent-info.github.io/notice/</guid>
+      <description>
+
+&lt;h2 id=&#34;2019-01-05&#34;&gt;2019.01.05&lt;/h2&gt;
+
+&lt;h4 id=&#34;안드로이드앱-업데이트&#34;&gt;안드로이드앱 업데이트&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;각 커뮤니티 사이트의 글을 광고없이 최적화해서 볼 수 있도록 개선했습니다. 그 밖에 안드로이드 앱의 성능과 UI를 업그레이드 했습니다.&lt;/li&gt;
+&lt;li&gt;Android 앱 다운로드 &amp;gt; &lt;a href=&#34;https://play.google.com/store/apps/details?id=com.tansansu.latentclub&#34;&gt;구글 플레이&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;2018-10-09&#34;&gt;2018.10.09&lt;/h2&gt;
+
+&lt;h4 id=&#34;장애-공지&#34;&gt;장애 공지&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;서버 장애로 10월 2일부터 8일까지 일주일 정도 게시글이 업데이트가 안되었습니다. 현재 서버를 복구를 완료하여 문제가 없으며, 새로운 글이 분류되어 업데이트 되는 시간도 단축하였습니다. 이용에 불편드려 죄송합니다.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;2018-09-07&#34;&gt;2018.09.07&lt;/h2&gt;
+
+&lt;h4 id=&#34;ios-앱-출시&#34;&gt;iOS 앱 출시&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;iOS 앱이 출시되었습니다. 유료($0.99) 앱이지만 지난번에 올린 알림사항처럼 iOS앱은 각 게시글이 웹사이트가 아니라 앱내에서 보이도록 되어 기존 앱과는 업그레이드된 기능을 갖고 있습니다. 이 기능은 안드로이드에서는 Pro 버전으로 출시될 예정입니다.
+&lt;a href=&#34;https://itunes.apple.com/us/app/latent-club/id1431374836?l=ko&amp;amp;ls=1&amp;amp;mt=8&#34;&gt;앱스토어에서 iOS앱 다운로드&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;2018-08-16&#34;&gt;2018.08.16&lt;/h2&gt;
+
+&lt;h4 id=&#34;서버-장애-및-안드로이드-앱-업데이트-v2-0-5&#34;&gt;서버 장애 및 안드로이드 앱 업데이트(v2.0.5)&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;서버 부하로 게시글 수집이 느려지는 장애가 있었습니다. 장애는 거의 해결되어 17일부터는 이상이 없을 거 같습니다.&lt;/li&gt;
+&lt;li&gt;버그 수정과 UI 최적화한 안드로이드 앱(v2.0.5)이 업데이트 되었습니다.&lt;/li&gt;
+&lt;li&gt;iOS 앱은 제작을 완료해서 테스트 중에 있습니다. 앱스토어는 개발자 등록부터가 험준하네요 -0-;;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;2018-07-11&#34;&gt;2018.07.11&lt;/h2&gt;
+
+&lt;h4 id=&#34;안드로이드-앱-업데이트-v2-0-4-및-ios앱-출시-관련&#34;&gt;안드로이드 앱 업데이트(v2.0.4) 및 iOS앱 출시 관련&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;버그 수정과 UI 최적화한 안드로이드 앱이 업데이트 되었습니다.&lt;/li&gt;
+&lt;li&gt;iOS 앱 제작도 거의 완료되어 가고 있습니다. 앱 심사기간도 포함하면 아직 스토어에 올라오기까지는 시간이 많이 남았지만요..-0-; iOS앱은 안드로이드앱과 크게 다른 점이 하나 있습니다. iOS앱은 게시글을 눌렀을 때 게시글 링크로 바로 가지 않고 글내용과 댓글내용을 파싱(!)해서 보여주는 식으로 개발됩니다.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;2018-06-08&#34;&gt;2018.06.08&lt;/h2&gt;
+
+&lt;h4 id=&#34;안드로이드-앱-업데이트-v2-0-3&#34;&gt;안드로이드 앱 업데이트(v2.0.3)&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;게시글 링크 &amp;ldquo;복사/공유/다른 브라우저로 열기&amp;rdquo; 기능 추가&lt;/li&gt;
+&lt;li&gt;사이드 메뉴 아이콘 변경&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;2018-05-22&#34;&gt;2018.05.22&lt;/h2&gt;
+
+&lt;h4 id=&#34;안드로이드-앱-업데이트-v2-0-1&#34;&gt;안드로이드 앱 업데이트(v2.0.1)&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;상단바 Material Design 적용&lt;/li&gt;
+&lt;li&gt;앱 최적화&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;2018-05-12&#34;&gt;2018.05.12&lt;/h2&gt;
+
+&lt;h4 id=&#34;분류모델-업데이트&#34;&gt;분류모델 업데이트&lt;/h4&gt;
+
+&lt;p&gt;게시물 분류 모델 업데이트 했습니다. 일주일정도 분류되는 상태를 보고 완료할 생각입니다. 최근 약 일주일간의 게시글을 바탕으로 모델을 생성했는데, 북미회담, 삼성바이오로직스 이슈가 경제/주식 분야의 이슈를 덮고 있어서 주제별로 중복되는 글이 많을 수 있습니다. 향후에 이슈가 가라앉는 시기에 일부 조정할 생각입니다.&lt;/p&gt;
+
+&lt;h2 id=&#34;2018-05-12-1&#34;&gt;2018.05.12&lt;/h2&gt;
+
+&lt;h4 id=&#34;업데이트-앱-릴리즈-지연&#34;&gt;업데이트 앱 릴리즈 지연&lt;/h4&gt;
+
+&lt;p&gt;앱 리뷰가 늦어져서 아직 앱스토어에 올라오지 않았습니다 ㅡ_ ㅡ;; 앞으로 하루이틀 안으로 업데이트될 거 같습니다.
+감사합니다.&lt;/p&gt;
+
+&lt;h2 id=&#34;2018-05-06&#34;&gt;2018.05.06&lt;/h2&gt;
+
+&lt;h4 id=&#34;android-앱-업데이트-분류모델-업그레이드-예정&#34;&gt;Android 앱 업데이트 &amp;amp; 분류모델 업그레이드 예정&lt;/h4&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;Android 앱을 업데이트 했습니다. 기존의 앱은 웹사이트와 동일한 모습이였으나, 앞으로 앱에서는 웹과 다른 UX로 업데이트될 예정입니다.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Android 앱 다운로드 &amp;gt; &lt;a href=&#34;https://play.google.com/store/apps/details?id=com.tansansu.latentclub&#34;&gt;구글 플레이&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;iOS 앱 &amp;gt; &lt;b&gt;Comming Soon..&lt;/b&gt;
+&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;현재 돌고 있는 게시글 분류 모델은 거의 10개월 전에 만들어 졌습니다. 단어들에 기반한 것이기 때문에 그 때의 게시글 단어들과 현재의 게시글들의 단어들이 차이가 나면서(이슈들이 많이 달리져서) 분류 정확도가 많이 떨어졌습니다. 조만간 모델을 다시 업데이트하여 반영할 예정입니다.&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
